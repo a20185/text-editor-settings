@@ -1,0 +1,19 @@
+{
+    "dpi_scale": 1.0,
+    "ensure_newline_at_eof_on_save": true,
+    "font_size": 12,
+    "highlight_line": true,
+    "ignored_packages":
+    [
+        "SublimeCodeIntel",
+        "Vintage"
+    ],
+    "match_brackets_angle": true,
+    "rulers":
+    [
+        80
+    ],
+    "translate_tabs_to_spaces": true,
+    "trim_trailing_white_space_on_save": true,
+    "word_wrap": true
+}
